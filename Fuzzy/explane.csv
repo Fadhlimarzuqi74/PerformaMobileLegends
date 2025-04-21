@@ -1,0 +1,69 @@
+Player_Name,Hero_Pick,Player_Role,KDA,Damage_Dealt,Damage_Taken,Damage_Turret,Gold,Level
+Luke,Barats,Explane,14.0,23618,76514,594,7201,12
+Donn,Esmeralda,Explane,0.67,32361,83104,0,5126,10
+Luke,Ruby,Explane,10.0,37653,84374,3414,9494,15
+Donn,Thamuz,Explane,0.6,29804,107163,0,8166,14
+Luke,Yu Zhong,Explane,1.2,44568,114057,0,8831,15
+Donn,Esmeralda,Explane,5.0,77370,196818,4117,12576,15
+Luke,Lapu-Lapu,Explane,3.75,49838,128533,363,10600,15
+Donn,Arlott,Explane,1.25,26881,98532,2891,10498,15
+Luke,Ruby,Explane,13.0,47202,94473,5082,13720,15
+Donn,Yu Zhong,Explane,2.67,25818,87731,2631,11032,15
+Aran,Benedetta,Explane,2.4,81467,132404,3366,22208,15
+Fluffy,Yu Zhong,Explane,6.0,35374,189351,3651,20176,15
+Aran,Cici,Explane,7.0,50822,72242,142,8646,14
+Fluffy,Terizla,Explane,6.0,34747,125683,2008,9239,15
+Aran,Cici,Explane,0.67,13094,36434,0,6118,12
+Fluffy,Yu Zhong,Explane,3.0,24296,25127,4516,7331,13
+Lutpiii,Cici,Explane,2.75,32879,74225,2386,11038,15
+Luke,Xborg,Explane,5.5,56009,85261,0,10626,15
+Lutpiii,Benedetta,Explane,1.4,39250,127102,2190,11897,15
+Luke,Masha,Explane,0.75,61367,77728,7935,12226,15
+Lutpiii,Cici,Explane,1.0,47836,130372,3546,8362,14
+Luke,Ruby,Explane,6.0,30441,119025,3327,8850,14
+Lutpiii,Uranus,Explane,2.25,26417,227432,1477,10007,15
+Luke,Xborg,Explane,1.33,74407,124641,0,10784,15
+Lutpiii,Xborg,Explane,7.0,54316,112594,1926,9049,15
+Luke,Ruby,Explane,1.0,25187,104192,222,7252,14
+Xorizo,Cici,Explane,1.25,39976,67613,2998,6966,13
+Fluffy,Yu Zhong,Explane,12.0,34973,93874,699,9128,15
+Xorizo,Paquito,Explane,1.75,24123,72730,6007,8065,14
+Fluffy,Terizla,Explane,6.5,34994,92175,1323,9692,15
+Xorizo,Cici,Explane,19.0,76184,132874,11298,11116,15
+Fluffy,Paquito,Explane,0.5,30495,116685,1112,8331,14
+Xorizo,Terizla,Explane,1.33,18170,54506,1960,6762,12
+Fluffy,Yu Zhong,Explane,8.0,19328,50130,616,8182,13
+Xorizo,Cici,Explane,2.67,39393,98130,4723,9302,15
+Luke,Masha,Explane,6.5,50648,55992,2336,9991,15
+Xorizo,Esmeralda,Explane,3.5,48702,140671,2138,10086,15
+Luke,Masha,Explane,2.0,38726,88361,86,9976,15
+Xorizo,Arlott,Explane,1.0,27227,184231,0,11349,15
+Luke,Lapu-Lapu,Explane,12.0,37500,152242,5366,15830,15
+Lutpiii,Thamuz,Explane,15.0,33069,92817,1206,9085,14
+Fluffy,Barats,Explane,0.5,22436,85475,0,6476,12
+Lutpiii,Paquito,Explane,5.0,18430,32568,3342,9004,14
+Fluffy,Terizla,Explane,1.33,26044,75895,0,6595,12
+Lutpiii,Cici,Explane,10.0,39394,62917,6842,7577,13
+Fluffy,Ruby,Explane,2.5,24680,52839,0,4818,10
+Fluffy,Esmeralda,Explane,0.6,45427,119718,296,11954,15
+Luke,Masha,Explane,4.0,42852,50249,2996,12712,15
+Fluffy,Xborg,Explane,12.0,30470,83352,3098,9966,15
+Luke,Yu Zhong,Explane,0.0,23889,60481,0,7740,13
+Fluffy,Masha,Explane,2.25,34123,87561,2005,9664,15
+Luke,Lapu-Lapu,Explane,2.75,35385,84426,3508,10735,15
+Fluffy,Yu Zhong,Explane,2.4,40279,116771,666,12427,15
+Luke,Barats,Explane,1.6,32282,164827,0,10272,15
+Fluffy,Terizla,Explane,1.6,62507,280704,506,14630,15
+Luke,Chou,Explane,1.67,23140,224960,0,16029,15
+Lutpiii,Paquito,Explane,2.0,47630,50125,10540,13200,15
+Fluffy,Terizla,Explane,5.0,32987,150563,0,7018,14
+Lutpiii,Barats,Explane,2.75,25177,167323,887,10111,15
+Fluffy,Terizla,Explane,1.0,25947,151172,300,9466,15
+Lutpiii,Masha,Explane,5.5,71355,63950,7498,15683,15
+Fluffy,Terizla,Explane,1.6,39615,223498,0,9855,15
+Lutpiii,Terizla,Explane,0.67,32985,150563,0,7018,13
+Fluffy,Paquito,Explane,12.0,47628,50121,10536,13196,15
+Lutpiii,Uranus,Explane,0.0,57609,225100,0,9786,15
+Fluffy,Xborg,Explane,9.0,101879,158483,7104,15039,15
+Lutpiii,Cici,Explane,9.0,56389,90681,7956,11716,15
+Fluffy,Xborg,Explane,1.0,35298,83903,1755,8594,14
